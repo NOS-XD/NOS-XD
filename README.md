@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NOX-XD</h1>
+<h1 align="center">Hi 👋, I'm NOS-XD</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mivi404&label=Profile%20views&color=0e75b6&style=flat" alt="mivi404" /> </p>
 <img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121372730/209459086-e8b4e870-c52a-40ca-85a6-d4cbcbad90c0.png)
 ">
