@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm NOS-XD</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mivi404&label=Profile%20views&color=0e75b6&style=flat" alt="mivi404" /> </p>
-<img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121372730/209459086-e8b4e870-c52a-40ca-85a6-d4cbcbad90c0.png)
-">
+
+<img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121372730/217138908-5d5e6f2e-3b88-46cd-a64d-d203d3aa8a0b.png">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mr.mivi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mr.mivi" height="30" width="40" /></a>
@@ -15,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mivi404&show_icons=true&locale=en&layout=compact" alt="mivi404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mivi404&show_icons=true&locale=en" alt="mivi404" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NOS-XD&show_icons=true&locale=en" alt="mivi404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mivi404&" alt="mivi404" /></p>
