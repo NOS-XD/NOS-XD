@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm NOS-XD</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mivi404&label=Profile%20views&color=0e75b6&style=flat" alt="mivi404" /> </p>
 
